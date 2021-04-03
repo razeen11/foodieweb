@@ -3,7 +3,8 @@ An online food ordering system developed with Java Swing
 
 # Technologies Used
 <ul>
-  <li>Java</li>
+  <li>Java Swing</li>
+  <li>JDBC</li>
   <li>MySQL</li>
 </ul>
 
