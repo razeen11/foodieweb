@@ -1,5 +1,5 @@
 # FoodieWeb
-An online food ordering system developed with Java Swing
+An online food ordering system developed using Java Swing
 
 # Technologies Used
 <ul>
